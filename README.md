@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
