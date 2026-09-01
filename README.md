@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/jasvitha2007/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/jasvitha2007/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/jasvitha2007/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/jasvitha2007/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/jasvitha2007/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -49,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/jasvitha2007/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/jasvitha2007/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
