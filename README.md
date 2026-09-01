@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/jasvitha2007/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/jasvitha2007/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/jasvitha2007/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/jasvitha2007/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
